@@ -1,0 +1,30 @@
+{
+    "employee": [
+      {
+        "name": "Mahlatse",
+        "surname": "Serathi",
+        "email": "serathikm@gmail.com",
+        "contacts": "0676482868",
+        "position": "Intern",
+        "active": true,
+        "id": 2
+      },
+      {
+        "id": 3,
+        "name": "Mahlatse",
+        "surname": "mazaza",
+        "email": "serathikm@gmail.com",
+        "contacts": "0877559668",
+        "position": "Learner"
+      },
+      {
+        "id": 4,
+        "name": "Jane",
+        "surname": "South",
+        "email": "jane@gmail.com",
+        "contacts": "12356789",
+        "position": "intern",
+        "active": true
+      }
+    ]
+  }
